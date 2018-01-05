@@ -3,6 +3,8 @@
 ## 1. Django 공식 사이트
  - Django는 공식 사이트를 참조하는게 가장 좋았다.
  - 공식사이트 : https://www.djangoproject.com
+ - 공식사이트의 백미는 바로 첫 번째 장고 앱 작성하기이다.
+ - 첫 번째 장고 앱 작성하기(국문) : https://docs.djangoproject.com/ko/2.0/intro/tutorial01/ 
   
 ## 2. 기타
  - Pycon2017 발표자료 : Django admin 페이지 커스텀하여 적극적으로 활용하기
