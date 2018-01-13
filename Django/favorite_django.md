@@ -15,10 +15,10 @@
  - AWS 공식 가이드 3. PostgreSQL 데이터베이스 엔진 기반 DB 인스턴스 만들기 : https://docs.aws.amazon.com/ko_kr/AmazonRDS/latest/UserGuide/USER_CreatePostgreSQLInstance.html
  - Deploying Python 3, Django, PostgreSQL to AWS Elastic Beanstalk : http://www.1strategy.com/blog/2017/05/23/tutorial-django-elastic-beanstalk/
  - 배포시 체크리스트 및 배포 과정 : http://recordingbetter.com/django/2017/06/29/Django-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC-AWS%EC%97%90-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0-(%EC%A0%84%EC%B2%B4)
+ - 배포후 media(image 등) 파일들을 S3에 저장하도록 연동하기 : http://tap4code.dothome.co.kr/?p=99
 
 ## 4. Django Database 관련
  - Database를 rollback 해야될 때 : https://stackoverflow.com/questions/32123477/django-revert-last-migration
-  
 
 ## 5. 안드로이드와의 연동 예제
  - Django REST Framework와 안드로이드 연동하기 : http://duzi077.tistory.com/128
