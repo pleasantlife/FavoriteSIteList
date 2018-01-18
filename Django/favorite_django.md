@@ -25,7 +25,6 @@
 
 ### 5-1. JSON 관련 예제 사이트
  - 테스트용으로 사용할 Json 출력해주는 사이트 : http://api.androiddeft.com/retrofit/json_object.json
- - Json을 넣으면 Java Pojo Class 만들어주는 사이트 : http://pojo.sodhanalibrary.com/
 
 ## 6. 기타
  - [Pycon2017 발표자료 : Django admin 페이지 커스텀하여 적극적으로 활용하기](https://www.slideshare.net/bbayoung7849/djangoadminsitecustomexample)
