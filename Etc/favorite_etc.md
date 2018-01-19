@@ -9,6 +9,7 @@
  - 네이버 D2 블로그. : http://d2.naver.com/home
 
 # 3. 기타 사이트 리스트
- 1. css 관련 사이트. almanac(연감) 부분이 참고하기 좋다. :  https://css-tricks.com/almanac/
- 2. Bootstrap docs. 검색하면 쉽게 나올줄 알았는데, 은근히 찾기 어렵다. : https://getbootstrap.com/docs/3.3/
- 3. 개발 관련 세미나 및 책, 강연등의 후기 : https://github.com/jojoldu  
+ - css 관련 사이트. almanac(연감) 부분이 참고하기 좋다. :  https://css-tricks.com/almanac/
+ - Bootstrap docs. 검색하면 쉽게 나올줄 알았는데, 은근히 찾기 어렵다. : https://getbootstrap.com/docs/3.3/
+ - 개발 관련 세미나 및 책, 강연등의 후기 : https://github.com/jojoldu
+ - 프로그래밍 강좌 모음 : https://programmers.co.kr/learn
