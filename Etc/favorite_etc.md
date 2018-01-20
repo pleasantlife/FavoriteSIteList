@@ -13,3 +13,4 @@
  - Bootstrap docs. 검색하면 쉽게 나올줄 알았는데, 은근히 찾기 어렵다. : https://getbootstrap.com/docs/3.3/
  - 개발 관련 세미나 및 책, 강연등의 후기 : https://github.com/jojoldu
  - 프로그래밍 강좌 모음 : https://programmers.co.kr/learn
+ - 하루에 1권 개발 관련 원서 무료 배포 사이트 : https://www.packtpub.com/packt/offers/free-learning
