@@ -7,6 +7,7 @@
  - 카카오 기술 블로그 : http://tech.kakao.com/
  - 우아한형제들(배달의 민족) 기술 블로그 : http://woowabros.github.io/
  - 네이버 D2 블로그. : http://d2.naver.com/home
+ - Toast Meetup 블로그 : http://meetup.toast.com/
 
 # 3. 기타 사이트 리스트
  - css 관련 사이트. almanac(연감) 부분이 참고하기 좋다. :  https://css-tricks.com/almanac/
@@ -14,3 +15,4 @@
  - 개발 관련 세미나 및 책, 강연등의 후기 : https://github.com/jojoldu
  - 프로그래밍 강좌 모음 : https://programmers.co.kr/learn
  - 하루에 1권 개발 관련 원서 무료 배포 사이트 : https://www.packtpub.com/packt/offers/free-learning
+ - RestAPI 제대로 알고 쓰자! : http://meetup.toast.com/posts/92
