@@ -10,6 +10,7 @@
 
 ## 2. 세부 페이지
 
+ - [자바(Java)](https://github.com/pleasantlife/FavoriteSIteList/tree/master/Java/favorite_Java.md)
  - [안드로이드(Android)](https://github.com/pleasantlife/FavoriteSIteList/tree/master/Android/favorite_android.md)
  - [장고(Django)](https://github.com/pleasantlife/FavoriteSIteList/tree/master/Django/favorite_django.md)
  - [파이썬(Python)](https://github.com/pleasantlife/FavoriteSIteList/tree/master/Python/favorite_python.md)
