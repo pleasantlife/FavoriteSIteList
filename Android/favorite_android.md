@@ -8,10 +8,13 @@
 - Android 앱 메모리 최적화 : http://d2.naver.com/helloworld/539525
 - 안드로이드에서의 비트맵과 메모리의 상관관계 : https://medium.com/marojuns-android/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%EC%97%90%EC%84%9C%EC%9D%98-%EB%B9%84%ED%8A%B8%EB%A7%B5%EA%B3%BC-%EB%A9%94%EB%AA%A8%EB%A6%AC%EC%9D%98-%EC%83%81%EA%B4%80%EA%B4%80%EA%B3%84-125308c293b9
 
+
 ## 3. 기타
  - 안드로이드에서 사용가능한 라이브러리 모음 사이트 : https://android-arsenal.com/
  - 머티리얼 디자인 아이콘 다운로드 사이트(구글 공식) : https://material.io/icons/
  - Json 파일을 Java Pojo Class로 변환해주는 사이트 : http://www.jsonschema2pojo.org/
  - 안드로이드 관련 소식지(블로그, 라이브러리 등의 정보 제공) : http://androidweekly.net/
+ - 안드로이드 팁 블로그 사이트(영어주의!) : https://medium.com/mindorks  
+ - 파이어베이스 FCM 연동 테스트 사이트 : https://pushtry.com/
  
 
