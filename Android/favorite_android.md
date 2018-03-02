@@ -16,5 +16,6 @@
  - 안드로이드 관련 소식지(블로그, 라이브러리 등의 정보 제공) : http://androidweekly.net/
  - 안드로이드 팁 블로그 사이트(영어주의!) : https://medium.com/mindorks  
  - 파이어베이스 FCM 연동 테스트 사이트 : https://pushtry.com/
+ - 앱스토어 등록 시 앱 스크린샷 꾸며주는 사이트 : https://www.appstorescreenshot.com/
  
 
