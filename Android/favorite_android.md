@@ -13,6 +13,7 @@
  - 안드로이드에서 사용가능한 라이브러리 모음 사이트 : https://android-arsenal.com/
  - 머티리얼 디자인 아이콘 다운로드 사이트(구글 공식) : https://material.io/icons/
  - Json 파일을 Java Pojo Class로 변환해주는 사이트 : http://www.jsonschema2pojo.org/
+ - Json 파일을 사람이 보기 좋게(Beautify) 해주는 사이트 : https://codebeautify.org/jsonviewer
  - 안드로이드 관련 소식지(블로그, 라이브러리 등의 정보 제공) : http://androidweekly.net/
  - 안드로이드 팁 블로그 사이트(영어주의!) : https://medium.com/mindorks  
  - 파이어베이스 FCM 연동 테스트 사이트 : https://pushtry.com/
