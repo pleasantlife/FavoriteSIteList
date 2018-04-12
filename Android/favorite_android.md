@@ -13,6 +13,10 @@
  - 머티리얼 디자인 아이콘 다운로드 사이트(구글 공식) : https://material.io/icons/
  - 안드로이드 에셋 스튜디오 생성기(앱 아이콘, 노티 아이콘 생성 등 가능) : https://romannurik.github.io/AndroidAssetStudio/index.html
 
+ ## 4. 라이브러리
+ - 머티리얼 캘린더 라이브러리 : https://github.com/prolificinteractive/material-calendarview
+ - 포토뷰(이미지 확대/축소) : https://github.com/chrisbanes/PhotoView 
+
 ## 4. 기타
  - 안드로이드에서 사용가능한 라이브러리 모음 사이트 : https://android-arsenal.com/
  - Json 파일을 Java Pojo Class로 변환해주는 사이트 : http://www.jsonschema2pojo.org/
