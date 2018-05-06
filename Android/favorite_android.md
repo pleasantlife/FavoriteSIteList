@@ -26,4 +26,5 @@
  - 파이어베이스 FCM 연동 테스트 사이트 : https://pushtry.com/
  - 앱스토어 등록 시 앱 스크린샷 꾸며주는 사이트 : https://www.appstorescreenshot.com/
  - 안드로이드 채팅 UI 만들기 튜토리얼(영어주의!) : https://blog.sendbird.com/android-chat-tutorial-building-a-messaging-ui/
+ - 안드로이드 Next Step 저자 github(안드로이드 관련 내용 다수) : https://github.com/suribada
 
