@@ -28,4 +28,5 @@
  - 앱스토어 등록 시 앱 스크린샷 꾸며주는 사이트 : https://www.appstorescreenshot.com/
  - 안드로이드 채팅 UI 만들기 튜토리얼(영어주의!) : https://blog.sendbird.com/android-chat-tutorial-building-a-messaging-ui/
  - 안드로이드 Next Step 저자 github(안드로이드 관련 내용 다수) : https://github.com/suribada
+ - 안드로이드 9 Patch png 이미지 생성 사이트 : http://inloop.github.io/shadow4android/
 
