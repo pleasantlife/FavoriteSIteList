@@ -17,8 +17,12 @@
  - 머티리얼 캘린더 라이브러리 : https://github.com/prolificinteractive/material-calendarview
  - 포토뷰(이미지 확대/축소) : https://github.com/chrisbanes/PhotoView 
  - 플래시바(알림 라이브러리) : https://github.com/aritraroy/Flashbar
+ - 안드로이드 CoordinatorLayout Behavior 커스텀 : http://gun0912.tistory.com/42, http://readme.skplanet.com/?p=11463
 
-## 4. 기타
+## 4-1. 라이브러리 사용중 발생하는 문제 
+ - Glide 사용중 화질 저하 : https://stackoverflow.com/questions/42433718/android-image-quality-is-low-when-using-glide
+
+## 5. 기타
  - 안드로이드에서 사용가능한 라이브러리 모음 사이트 : https://android-arsenal.com/
  - Json 파일을 Java Pojo Class로 변환해주는 사이트 : http://www.jsonschema2pojo.org/
  - Json 파일을 사람이 보기 좋게(Beautify) 해주는 사이트 : https://codebeautify.org/jsonviewer
@@ -29,4 +33,3 @@
  - 안드로이드 채팅 UI 만들기 튜토리얼(영어주의!) : https://blog.sendbird.com/android-chat-tutorial-building-a-messaging-ui/
  - 안드로이드 Next Step 저자 github(안드로이드 관련 내용 다수) : https://github.com/suribada
  - 안드로이드 9 Patch png 이미지 생성 사이트 : http://inloop.github.io/shadow4android/
-
