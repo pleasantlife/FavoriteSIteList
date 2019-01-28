@@ -7,6 +7,7 @@
  - 카카오 기술 블로그 : http://tech.kakao.com/
  - 우아한형제들(배달의 민족) 기술 블로그 : http://woowabros.github.io/
  - 네이버 D2 블로그. : http://d2.naver.com/home
+ - IBK 시스템 플랫폼 사업팀 블로그 : http://devstory.ibksplatform.com/2018/05/android-parcelable.html
  - Toast Meetup 블로그 : http://meetup.toast.com/
  - Google Developers 블로그(영어주의!) : https://medium.com/google-developers/
  - spoqa 기술 블로그 : https://spoqa.github.io/
