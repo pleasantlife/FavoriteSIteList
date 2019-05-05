@@ -27,16 +27,17 @@
  - A/B테스트 수행 및 결과 분석 툴 제공
  - 이메일 대시보드 : 이메일 메시지가 스팸으로 가는지 받은 편지함으로 가는지 확인 가능
 
-# 조선일보의 디지털 혁신 여정 
+## 조선일보의 디지털 혁신 여정 
 
- ## 조선일보의 고민
-  - 50대 이상의 중장년 충성고객이 닻을 내리고 3~40대를 끌어들이고 싶음
-  - One-way massmedia에서 고객의 360도 View 데이터를 기반으로 하는 고객중심의 'Connect Media'가 되는 것이 목표
+## 조선일보의 고민
+ - 50대 이상의 중장년 충성고객이 닻을 내리고 3~40대를 끌어들이고 싶음
+ - One-way massmedia에서 고객의 360도 View 데이터를 기반으로 하는 고객중심의 'Connect Media'가 되는 것이 목표
 
- ## 조선일보의 노력 
-  - AWS Elemental을 이용한 혁신 (라이브 조선)
-  - AWS Polly 서비스 개선
-  - 조직문화 개선(Digital Innovation Program)
+## 조선일보의 노력 
+ - AWS Elemental을 이용한 혁신 (라이브 조선)
+ - AWS Polly 서비스 개선
+ - 조직문화 개선(Digital Innovation Program)
 
+ ## 전화번호 등록을 위한 SMS 양방향 전달 구현 : https://amzn.to/2KE255a
 
 
