@@ -12,6 +12,7 @@
  - Google Developers 블로그(영어주의!) : https://medium.com/google-developers/
  - spoqa 기술 블로그 : https://spoqa.github.io/
  - 국내 개발 블로그 모음 : https://github.com/sarojaba/awesome-devblog/
+ - VCNC(타다, 비트윈) 기술 블로그 : http://engineering.vcnc.co.kr/
 
 # 3. 알고리즘
  - Codeup : http://www.codeup.kr
